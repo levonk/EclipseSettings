@@ -1,9 +1,9 @@
-#Mon Nov 29 09:25:37 EST 2010
 IMPORT_FILES_AND_FOLDERS_MODE=prompt
 IMPORT_FILES_AND_FOLDERS_VIRTUAL_FOLDER_MODE=prompt
-eclipse.preferences.version=1
-tipsAndTricks=true
-platformState=1290195732743
-quickStart=false
-EXIT_PROMPT_ON_CLOSE_LAST_WINDOW=false
 PROBLEMS_FILTERS_MIGRATE=true
+REFRESH_WORKSPACE_ON_STARTUP=true
+TASKS_FILTERS_MIGRATE=true
+eclipse.preferences.version=1
+platformState=1341470941299
+quickStart=false
+tipsAndTricks=true

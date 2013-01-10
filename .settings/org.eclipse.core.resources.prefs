@@ -1,4 +1,5 @@
-#Mon Nov 29 09:19:00 EST 2010
-version=1
+description.filestatelongevity=2160000000
+description.maxfilestates=100
 eclipse.preferences.version=1
-description.applyfilestatepolicy=false
+encoding=UTF-8
+version=1

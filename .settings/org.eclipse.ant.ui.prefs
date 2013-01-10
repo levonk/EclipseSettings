@@ -1,4 +1,10 @@
-#Mon Nov 29 09:25:01 EST 2010
-useAnnotationsPrefPage=true
+createMarkers=true
 eclipse.preferences.version=1
+org.eclipse.ant.ui.customtemplates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+problem_classpath=warning
+problem_imports=warning
+problem_properties=warning
+problem_security=warning
+problem_tasks=warning
+useAnnotationsPrefPage=true
 useQuickDiffPrefPage=true

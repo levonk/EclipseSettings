@@ -1,5 +1,12 @@
-#Mon Nov 29 09:25:12 EST 2010
-spacesForTabs=true
+additionIndicationInOverviewRuler=true
+changeIndicationInOverviewRuler=true
+deletionIndicationInOverviewRuler=true
 eclipse.preferences.version=1
-overviewRuler_migration=migrated_3.1
 lineNumberRuler=true
+overviewRuler_migration=migrated_3.1
+printMargin=true
+printMarginColumn=120
+quickdiff.defaultProvider=org.eclipse.egit.ui.internal.decorators.GitQuickDiffProvider
+showWhitespaceCharacters=true
+spellingEngine=org.eclipse.jdt.internal.ui.text.spelling.DefaultSpellingEngine
+undoHistorySize=500
