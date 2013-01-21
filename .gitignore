@@ -1,2 +1,9 @@
 *.bak
 *.swp
+org.eclipse.wst.sse.core.prefs
+org.eclipse.wst.server.core.prefs
+org.eclipse.jdt.launching.prefs
+org.eclipse.egit.core.prefs
+com.google.gwt.eclipse.core.prefs
+com.google.gdt.eclipse.suite.prefs
+com.google.appengine.eclipse.core.prefs
