@@ -20,3 +20,8 @@ Now restart Eclipse
 
 None, express or implied. Sorry.
 
+# Post Script
+
+Don't forget to edit your eclipse.ini and add
+
+	-Duser.name=firstname middlename lastname <emailAddy>
